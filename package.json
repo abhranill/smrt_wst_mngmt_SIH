@@ -1,0 +1,24 @@
+{
+  "name": "cleancity-360",
+  "version": "1.0.0",
+  "description": "Smart Waste Reporting & Municipal Management System - Smart India Hackathon 2026",
+  "scripts": {
+    "setup": "npm --prefix backend install && npm --prefix frontend install && npm --prefix frontend run build",
+    "build": "npm --prefix frontend run build",
+    "start": "node backend/server.js",
+    "dev:backend": "node backend/server.js",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "test": "node tests/integration.test.js"
+  },
+  "keywords": [
+    "sih2026",
+    "smart-india-hackathon",
+    "waste-management",
+    "swachh-bharat",
+    "ai-classification",
+    "leaflet",
+    "gis"
+  ],
+  "author": "CleanCity 360 SIH Team",
+  "license": "MIT"
+}
