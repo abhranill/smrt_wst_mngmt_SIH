@@ -212,4 +212,5 @@ For hackathon presentation, click the instant login buttons or use:
 3. **SMS / WhatsApp Gateway:** Status updates currently log to the internal audit trail and are displayed in real-time on the citizen timeline; integration with MSG91 or Twilio would enable live SMS notifications to citizens.
 4. **Offline Mobile Application:** A native React Native or PWA wrapper with background GPS caching will enable sanitation workers to log cleanups in low-connectivity areas.
 #   S m a r t - w a s t e - m a n a g e m e n t -  
+ #   s m r t _ w s t _ m n g m t _ S I H  
  
